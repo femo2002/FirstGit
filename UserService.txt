@@ -1,2 +1,4 @@
 Get user data....
 input user data and modifiy
+
+create an avater for user
