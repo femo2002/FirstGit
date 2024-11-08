@@ -1,4 +1,16 @@
-Get user data....
-input user data and modifiy
+#DEMO
 
-create an avater for user
+git add. to add new inputs
+
+git commit -m "***commits comments"
+git commit -a -m "*** add and commit all at once"
+
+git push origin main (to push codes to repositiory file online from your local repositiory)
+
+git log(full status)
+
+git status(to see all added, modified codes)
+
+git rm --cached{filename}
+
+git tag -a v1.0(depends on your choice of naming) -m "*** your commits"
